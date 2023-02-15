@@ -1,0 +1,93 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    padding: 0px 90px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+   background-color: crimson;
+}
+ul{
+    display: flex;
+    gap: 40px;
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+#fb{
+    width: 50px;
+    height: 45px;
+}
+#red-font{
+    color:deeppink;
+}
+#h3font{
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+#h6font{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#ig{
+    width: 300px;
+    height: 250px;
+}
+#home{
+    display: flex;
+    justify-content: space-around;
+   gap: 20%;
+   background-color:darkgray ;
+   padding: 50px;
+}
+#aboutme{
+    display: flex;
+    justify-content: space-around;
+   gap: 20%;
+   background-color: white;
+   padding: 10px;
+   background-color: deeppink;
+   padding: 70px;
+}
+#skills{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    border: 2px; 
+    height: 500px;
+    text-align: center;
+
+}
+#one{
+    height: 300px;
+    width: 300px;
+    border: 2px solid black;
+    background-color: crimson;
+}
+#two{
+    height: 300px;
+    width: 300px;
+    border: 2px solid black;
+
+}
+#three{
+    height: 300px;
+    width: 300px;
+    border: 2px solid black;
+
+}
+.para{
+    text-align: center;
+}
+#section{
+    background-color: bisque;
+}
+#footer{
+   background-color: white;
+   padding: 40px;
+   background-color: deeppink;
+}
